@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "澶存潯";
+  font-family: "toutiao";
   /* Project id 4041271 */
   src: url('//at.alicdn.com/t/c/font_4041271_aqpdkoha6as.woff2?t=1682516570777') format('woff2'), url('//at.alicdn.com/t/c/font_4041271_aqpdkoha6as.woff?t=1682516570777') format('woff'), url('//at.alicdn.com/t/c/font_4041271_aqpdkoha6as.ttf?t=1682516570777') format('truetype');
 }
-.澶存潯 {
-  font-family: "澶存潯" !important;
+.toutiao {
+  font-family: "toutiao" !important;
   font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
